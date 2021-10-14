@@ -1,0 +1,4 @@
+const ServiceUUID = '0000181b-0000-1000-8000-00805f9b34fb';
+const CharacteristicUUID = ' 00002A9D-0000-1000-8000-00805F9B34FB';
+
+const MI_SCALE = 'MIBFS';
